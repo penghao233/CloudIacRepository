@@ -1,6 +1,6 @@
 provider "alicloud" {
-  access_key = "LTAI5tHWdPtAMWnCC9SQmuoe"
-  secret_key = "bWSRZqkOwubHUsM1TBUY11LZF6BnNw"
+  access_key = ""
+  secret_key = ""
   region     = "cn-hangzhou"
 }
 
